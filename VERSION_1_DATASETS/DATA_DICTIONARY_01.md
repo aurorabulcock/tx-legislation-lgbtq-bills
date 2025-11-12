@@ -1,4 +1,4 @@
-##### LGBTQ\_BILLS\_02
+##### LGBTQ\_BILLS\_YEAR\_VER\_1
 
 ###### Category Variables
 
@@ -72,7 +72,7 @@
 
 
 
-##### LGBTQ\_RESOUR\_02
+##### LGBTQ\_RESOUR\_YEAR\_VER\_1
 
 ###### Category Variables
 
@@ -177,4 +177,5 @@
 &nbsp;		The value is the end-of-year net assets value
 
 ##### 
+
 
